@@ -1,5 +1,8 @@
 # British-Airways-Reviews-Dashboard
 ![dashboard](https://github.com/Manu-Pranay/British-Airways-Reviews-Dashboard/blob/main/Reviews%20Dashboard.png)
+
+Dataset: https://www.kaggle.com/datasets/lapodini/british-airway-reviews
+
 # Overview:
 This comprehensive dashboard offers a detailed insight into the customer reviews of British Airways, enabling a holistic understanding of the airline's performance. The dashboard is equipped with interactive features that allow users to analyze and explore reviews based on key metrics, contributing to data-driven decision-making for service enhancement.
 
