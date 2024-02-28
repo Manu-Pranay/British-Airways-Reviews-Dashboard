@@ -30,7 +30,9 @@ The bar chart breaks down the average review scores and number of reviews by air
 
 # Benefits:
 **Informed Decision-Making:** By analyzing the average reviews over time, British Airways can make informed decisions on where to focus efforts for service improvements.
+
 **Regional Performance Analysis:** Understanding how different continents rate the services helps in tailoring strategies for specific markets.
+
 **Aircraft-Specific Insights:** Identifying strengths and weaknesses in different aircraft and guides the allocation of resources for maintenance and improvements.
 
 # Conclusion:
